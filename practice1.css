@@ -1,3 +1,4 @@
+/* use better class names! */
 html, body{
     height: 100%;
 
@@ -13,6 +14,7 @@ html, body{
     text-align: center;
     text-emphasis:bold ;
 }
+/* this should have a gray background with gray text */
 .Sign_Up{
     grid-column: 3/6;
     grid-row: 1/3;

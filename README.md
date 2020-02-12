@@ -1,5 +1,6 @@
 # css_grid_practice1
-
+#### Check out the comments in your HTML and CSS files
+#### Score : 2/5
 ### Problem1:
 Create a site similar, but not exact to page1.png. Links should not work.
 
